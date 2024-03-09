@@ -1,0 +1,15 @@
+
+GAME_WIDTH = 500
+GAME_HEIGHT = 500
+SPEED = 100
+SIZE = 25
+SNAKE_BODY_PARTS = 2
+SNAKE_COLOR = 'green'
+FOOD_COLOR = 'red'
+BACKGROUND_COLOR = 'black'
+
+
+SCORE = 0
+direction = 'down'
+
+
